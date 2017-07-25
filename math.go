@@ -1,3 +1,5 @@
+package math
+
 // binary powering algorithm for computing 'a' to the power of 'b' for integer values
 func Pow(a, b int) int {
 	p := 1
